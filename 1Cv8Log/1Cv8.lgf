@@ -22,4 +22,5 @@ cd42583e-e227-4328-bb6c-c437682cf2d4
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.PredefinedDataInitialization",10},
 {5,f47a75a5-3c81-4324-b242-ccba37ae63d5,"Справочник.Склады",5},
-{4,"_$Transaction$_.Commit",11}
+{4,"_$Transaction$_.Commit",11},
+{3,"BackgroundJob",3}
